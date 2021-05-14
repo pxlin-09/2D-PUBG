@@ -1124,7 +1124,6 @@ public class MyGdxGame extends ApplicationAdapter implements InputProcessor,
 				}
 				c.getUsing().drawSelf(batch, map_x, map_y);
 				c.cpuDrawSelf(batch, map_x, map_y);
-				c.CpudisplayStats(font, batch, map_x, map_y);
 			}
 		}
 
@@ -1142,8 +1141,7 @@ public class MyGdxGame extends ApplicationAdapter implements InputProcessor,
 		Gdx.gl.glBlendFunc(GL20.GL_SRC_ALPHA, GL20.GL_ONE_MINUS_SRC_ALPHA); // allow
 																			// alpha
 		shaperender.begin(ShapeRenderer.ShapeType.Filled);
-		shaperender
-				.setColor((float) 0.3, (float) 0.3, (float) 0.3, (float) 0.8);
+		shaperender.setColor((float) 0.3, (float) 0.3, (float) 0.3, (float) 0.8);
 		shaperender.rect(880, 450, 100, 25);
 		shaperender.rect(910, 415, 70, 25);
 		shaperender.end();

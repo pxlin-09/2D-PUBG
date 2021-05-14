@@ -372,7 +372,7 @@ public class Character
         shaperender.rect(240, 70, 130, 30);
         shaperender.end();
         
-        String hpDis = "HP: "+hp;	// health   
+        String hpDis = "HP: "+ (float) hp;	// health   
         batch.begin();
 		font.draw(batch,hpDis,100,130);	// display health
 		font.draw(batch,"BANDAGE: "+bandage,250,90);
@@ -474,7 +474,7 @@ public class Character
 		batch.draw(imgR, (float)self.x-imgR.getRegionWidth()/2+mapX, (float)self.y-imgR.getRegionHeight()/2+mapY, (float)img.getWidth()/2, (float)img.getHeight()/2, (float)img.getWidth(), (float)img.getHeight(),(float)1,(float)1, (float)Math.toDegrees(angle));
 	}
 	
-	public void CpudisplayStats(BitmapFont font, SpriteBatch batch, int mapX, int mapY)	// show the stats of each bot
+	public void CpudisplayStats(BitmapFont font, SpriteBatch batch, int mapX, int mapY)	// show the stats of each bot (display for debug only)
 	{
         // get the hp of bot and display it
 		String hpDis = "HP: "+String.format("%.1f",hp);     
