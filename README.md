@@ -18,8 +18,10 @@ Feel free to edit and improve the game!
 Enjoy.
 
 Intro: 
-![](screenShots/s0.png)
-In game:
-![](screenShots/s1.png)
-![](screenShots/s2.png)
-![](screenShots/s3.png)
+<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot0.jpg"/>  
+<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot1.jpg"/>  
+<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot2.jpg"/>  
+  
+In game:  
+<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot3.jpg"/>  
+<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot4.jpg"/>
