@@ -1,0 +1,7 @@
+              Welcome to the 2D island!
+    In this island, you will fight with 99 robots. 
+   All the things you need are hidden in the island.
+      Be careful, there will be poison gas around. 
+It will move towards to a specific point in short time.
+   The only way to survive is to kill all the robots. 
+                   Are you ready?
