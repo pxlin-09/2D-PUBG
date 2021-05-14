@@ -21,7 +21,8 @@ Intro:
 <img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot0.jpg"/>  
 <img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot1.jpg"/>  
 <img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot2.jpg"/>  
+<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot3.jpg"/>   
   
 In game:  
-<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot3.jpg"/>  
-<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot4.jpg"/>
+<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot4.jpg"/>  
+<img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot5.jpg"/>
