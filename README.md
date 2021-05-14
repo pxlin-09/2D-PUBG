@@ -17,7 +17,7 @@ Feel free to edit and improve the game!
 
 Enjoy.
 
-Intro: 
+Intro:  
 <img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot0.jpg"/>  
 <img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot1.jpg"/>  
 <img width=500 src="https://github.com/pxlin-09/2D-PUBG/raw/master/Screenshots/screenshot2.jpg"/>  
